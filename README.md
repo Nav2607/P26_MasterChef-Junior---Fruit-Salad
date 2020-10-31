@@ -1,1 +1,1 @@
-# P26_MasterChef-Junior---Fruit-Salad
+This recipe will teach you how to make a delicious fruit salad.
